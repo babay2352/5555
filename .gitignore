@@ -1,0 +1,40 @@
+```
+# Roblox related
+*.rbxl
+*.rbxlx
+*.rbxm
+*.rbxmx
+
+# Build artifacts
+build/
+dist/
+
+# Dependencies
+node_modules/
+.venv/
+venv/
+__pycache__/
+*.egg-info/
+
+# Environment
+.env
+.env.local
+*.env.*
+
+# Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temp files
+*.tmp
+*.temp
+```
