@@ -1,42 +1,40 @@
 ```
-# Python
-__pycache__/
-*.pyc
-*.pyo
-*.pyd
-.Python
-venv/
+# Roblox related
+*.rbxl
+*.rbxlx
+*.rbxm
+*.rbxmx
+
+# Build artifacts
+build/
+dist/
+
+# Dependencies
+node_modules/
 .venv/
+venv/
+__pycache__/
+*.egg-info/
+
+# Environment
 .env
 .env.local
-.env.*
+*.env.*
 
-# Logs
-*.log
-
-# Temporary files
-*.tmp
-*.temp
-*.swp
-*.swo
-
-# Coverage
-.coverage
-coverage/
-htmlcov/
-
-# IDE
+# Editors
 .vscode/
 .idea/
 *.swp
 *.swo
 
-# Build and distribution
-dist/
-build/
-*.egg-info/
+# Logs
+*.log
 
 # OS
 .DS_Store
 Thumbs.db
+
+# Temp files
+*.tmp
+*.temp
 ```
