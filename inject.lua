@@ -37,22 +37,10 @@ end
 -- Шаг 2: Загружаем основной скрипт чита
 print("[2/2] Loading Fish Cheat Script...")
 LoadAndExecute(
-    "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/fish_cheat.lua", 
+    "https://raw.githubusercontent.com/babay2352/5555/refs/heads/creating-scripts-in-roblox-52b3f/fish_cheat.lua", 
     "Fish Cheat"
 )
 
--- ВАЖНО: Замени ссылку выше на свою!
--- 1. Запуши fish_cheat.lua в свой репозиторий на GitHub
--- 2. Замени YOUR_USERNAME и YOUR_REPO на свои данные
--- 3. Убедись, что файл доступен по прямой ссылке (raw)
-
--- АЛЬТЕРНАТИВА: Если не хочешь использовать GitHub,
--- просто скопируй содержимое fish_cheat.lua и вставь его ниже:
-
---[[
--- ВСТАВЬ КОД ИЗ fish_cheat.lua СЮДА ЕСЛИ ХОЧЕШЬ ОДИН ФАЙЛ
--- (удали квадратные скобки и всё между ними выше, затем вставь код)
-]]
 
 print("========================================")
 print("     Injection Complete!")
